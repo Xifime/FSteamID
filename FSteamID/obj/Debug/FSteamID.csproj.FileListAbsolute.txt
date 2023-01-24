@@ -1,0 +1,7 @@
+C:\Users\Ivan\source\repos\FSteamID\FSteamID\bin\Debug\FSteamID.exe
+C:\Users\Ivan\source\repos\FSteamID\FSteamID\bin\Debug\FSteamID.pdb
+C:\Users\Ivan\source\repos\FSteamID\FSteamID\obj\Debug\FSteamID.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\FSteamID\FSteamID\obj\Debug\FSteamID.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\FSteamID\FSteamID\obj\Debug\FSteamID.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\FSteamID\FSteamID\obj\Debug\FSteamID.exe
+C:\Users\Ivan\source\repos\FSteamID\FSteamID\obj\Debug\FSteamID.pdb

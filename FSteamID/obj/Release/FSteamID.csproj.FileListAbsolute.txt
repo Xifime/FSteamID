@@ -1,0 +1,14 @@
+C:\Users\Ivan\source\repos\FSteamID\FSteamID\bin\Release\FSteamID.exe
+C:\Users\Ivan\source\repos\FSteamID\FSteamID\bin\Release\FSteamID.pdb
+C:\Users\Ivan\source\repos\FSteamID\FSteamID\obj\Release\FSteamID.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\FSteamID\FSteamID\obj\Release\FSteamID.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\FSteamID\FSteamID\obj\Release\FSteamID.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\FSteamID\FSteamID\obj\Release\FSteamID.exe
+C:\Users\Ivan\source\repos\FSteamID\FSteamID\obj\Release\FSteamID.pdb
+D:\allrepos\FSteamID\FSteamID\bin\Release\FSteamID.exe
+D:\allrepos\FSteamID\FSteamID\bin\Release\FSteamID.pdb
+D:\allrepos\FSteamID\FSteamID\obj\Release\FSteamID.csproj.AssemblyReference.cache
+D:\allrepos\FSteamID\FSteamID\obj\Release\FSteamID.csproj.SuggestedBindingRedirects.cache
+D:\allrepos\FSteamID\FSteamID\obj\Release\FSteamID.csproj.CoreCompileInputs.cache
+D:\allrepos\FSteamID\FSteamID\obj\Release\FSteamID.exe
+D:\allrepos\FSteamID\FSteamID\obj\Release\FSteamID.pdb
